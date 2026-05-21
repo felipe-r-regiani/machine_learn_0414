@@ -23,10 +23,7 @@ As ferramentas centrais utilizadas neste projeto são:
 ## 🚀 Como começar
 
 1.  Clone este repositório:
-    ```
-
-[file-tag: code-generated-file-0-1779370569106297192]
-bash
+    ```bash
     git clone [https://github.com/felipe-r-regiani/machine_learn_0414.git](https://github.com/felipe-r-regiani/machine_learn_0414.git)
     ```
 2.  Instale as dependências:
